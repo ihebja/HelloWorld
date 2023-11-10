@@ -1,2 +1,4 @@
 # ignorer la configuration locale
 locale.config
+# ingnorer tous les fichiers dans le répertoire build
+build/
